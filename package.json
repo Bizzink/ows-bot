@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Bizzink/ows-bot#readme",
   "dependencies": {
+    "discord.js": "^13.6.0",
     "twitter.js": "^0.11.0"
   }
 }
