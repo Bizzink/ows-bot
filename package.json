@@ -1,0 +1,19 @@
+{
+  "name": "ows-bot",
+  "version": "1.0.0",
+  "description": "our funny little bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bizzink/ows-bot.git"
+  },
+  "author": "B&P Industries",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bizzink/ows-bot/issues"
+  },
+  "homepage": "https://github.com/Bizzink/ows-bot#readme"
+}

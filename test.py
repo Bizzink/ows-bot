@@ -6,4 +6,4 @@ for i in range(10):
 def plobsheim_sex(gods, numba):
     for i in range(numba):
         print(f"{gods} he's got that {i}")
-plobsheim_sex("fart", 50)
+plobsheim_sex("fart", 1000)
