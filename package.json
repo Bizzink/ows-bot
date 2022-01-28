@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Bizzink/ows-bot/issues"
   },
-  "homepage": "https://github.com/Bizzink/ows-bot#readme"
+  "homepage": "https://github.com/Bizzink/ows-bot#readme",
+  "dependencies": {
+    "twitter.js": "^0.11.0"
+  }
 }
